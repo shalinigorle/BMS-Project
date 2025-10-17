@@ -1,5 +1,4 @@
 package com.example.manage.controller;
-
 import com.example.manage.model.ManageModel;
 import com.example.manage.service.ManageService;
 import org.springframework.beans.factory.annotation.Autowired;
